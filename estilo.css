@@ -18,7 +18,6 @@ body{
     padding: 10px;
     display: flex;
     font-family: 'time roman';
-   margin-left: : 10px;
 
 }
 .General{
@@ -27,7 +26,7 @@ body{
 
 }
 .ContenidoBD{
-	 background: #90BEF8;
+	background: #90BEF8;
     width: 290px;
     margin: 20px 0px 20px 175px;
     padding: 10px;
@@ -35,6 +34,7 @@ body{
     
 
 }
+
 
 .contenido2{
 	width: 680px;
@@ -45,7 +45,7 @@ body{
 
 h1{
 	text-align: center;
-	font-family: 
+	font-family: 'time roman';
 }
 
 .ContenidoBD nav ul{
